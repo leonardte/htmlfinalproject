@@ -56,6 +56,14 @@ padding:22px;
 
 }
 
+.right{
+    float:right;
+}
+
+.left{
+    float:left;
+}
+
 #footer{
   clear: both;
   padding: 22px;
